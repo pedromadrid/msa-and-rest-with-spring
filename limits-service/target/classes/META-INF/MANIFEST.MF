@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: limits-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pedro
+Implementation-Vendor-Id: com.course.microservices
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/limits-service/
+Created-By: Maven Integration for Eclipse
+
